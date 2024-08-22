@@ -1,12 +1,10 @@
-- 👋 Hi, I’m @raiikaa
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Olá, eu sou @raiikaa
+- 👀 Estou interessada em aprender e me aprimorar em programação
+- 🌱 Atualmente estou me desenvolvendo na linguagem JavaScript.
+- 💞️ Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+- 📫 Como entrar em contato comigo:00001098269482sp@al.educacao.sp.gov.br
+- 😄 Pronomes:ela/dela
+- ⚡ Curiosidade: gosto de dançar e cozinhar
 
-<!---
-raiikaa/raiikaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+![](https://media1.tenor.com/m/x46JGFD-GlMAAAAC/adventure-time-adventure-time-jake.gif)
